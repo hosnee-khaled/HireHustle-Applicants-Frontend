@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878646848647",
+    "project_id": "hirehustle-f3b78",
+    "storage_bucket": "hirehustle-f3b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878646848647:android:890be6ee54dbe7ba265c22",
+        "android_client_info": {
+          "package_name": "com.fci.hirehustle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878646848647-g35ov5v8ikjuom2mqu1k3l9vpbbemekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUuEpCVvxrH_M0ebMYsBhEIStB4PwMnhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878646848647-g35ov5v8ikjuom2mqu1k3l9vpbbemekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
